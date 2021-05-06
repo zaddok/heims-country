@@ -1,0 +1,255 @@
+1101,Australia,036,Australia (part - excludes Australian External Territories)
+1102,Norfolk Island,574,Norfolk Island
+1199,"Australian External Territories, nec",036,"Australia (part - Australian External Territories, nec)"
+1201,New Zealand,554,New Zealand
+1301,New Caledonia,540,New Caledonia
+1302,Papua New Guinea,598,Papua New Guinea
+1303,Solomon Islands,090,Solomon Islands
+1304,Vanuatu,548,Vanuatu
+1401,Guam,316,Guam
+1402,Kiribati,296,Kiribati
+1403,Marshall Islands,584,Marshall Islands
+1404,"Micronesia, Federated States of",583,"Micronesia, Federated States of"
+1405,Nauru,520,Nauru
+1406,Northern Mariana Islands,580,Northern Mariana Islands
+1407,Palau,585,Palau
+1501,Cook Islands,184,Cook Islands
+1502,Fiji,242,Fiji (Melanesia)
+1503,French Polynesia,258,French Polynesia
+1504,Niue,570,Niue
+1505,Samoa,882,Samoa
+1506,"Samoa, American",016,American Samoa
+1507,Tokelau,772,Tokelau
+1508,Tonga,776,Tonga
+1511,Tuvalu,798,Tuvalu
+1512,Wallis and Futuna,876,Wallis and Futuna Islands
+1513,Pitcairn Islands,612,Pitcairn
+1599,"Polynesia (excludes Hawaii), nec",,
+1601,Adelie Land (France),,
+1602,Argentinian Antarctic Territory,,
+1603,Australian Antarctic Territory,,
+1604,British Antarctic Territory,,
+1605,Chilean Antarctic Territory,,
+1606,Queen Maud Land (Norway),,
+1607,Ross Dependency (New Zealand),,
+2102,England,826,United Kingdom of Great Britain and Northern Ireland (part)
+2103,Isle of Man,833,Isle of Man
+2104,Northern Ireland,826,United Kingdom of Great Britain and Northern Ireland (part)
+2105,Scotland,826,United Kingdom of Great Britain and Northern Ireland (part)
+2106,Wales,826,United Kingdom of Great Britain and Northern Ireland (part)
+2107,Guernsey,831,Guernsey
+2108,Jersey,832,Jersey
+2201,Ireland,372,Ireland
+2301,Austria,040,Austria
+2302,Belgium,056,Belgium
+2303,France,250,France
+2304,Germany,276,Germany
+2305,Liechtenstein,438,Liechtenstein
+2306,Luxembourg,442,Luxembourg
+2307,Monaco,492,Monaco
+2308,Netherlands,528,Netherlands
+2311,Switzerland,756,Switzerland
+2401,Denmark,208,Denmark
+2402,Faroe Islands,234,Faroe Islands
+2403,Finland,246,Finland
+2404,Greenland,304,Greenland (Northern America)
+2405,Iceland,352,Iceland
+2406,Norway,578,Norway
+2407,Sweden,752,Sweden
+2408,Aland Islands,248,Aland Islands
+3101,Andorra,020,Andorra
+3102,Gibraltar,292,Gibraltar
+3103,Holy See,336,Holy See
+3104,Italy,380,Italy
+3105,Malta,470,Malta
+3106,Portugal,620,Portugal
+3107,San Marino,674,San Marino
+3108,Spain,724,Spain
+3201,Albania,008,Albania
+3202,Bosnia and Herzegovina,070,Bosnia and Herzegovina
+3203,Bulgaria,100,Bulgaria (Eastern Europe)
+3204,Croatia,191,Croatia 
+3205,Cyprus,196,Cyprus (Western Asia)
+3206,North Macedonia,807,North Macedonia
+3207,Greece,300,Greece
+3208,Moldova,498,Republic of Moldova (Eastern Europe)
+3211,Romania,642,Romania (Eastern Europe)
+3212,Slovenia,705,Slovenia
+3214,Montenegro,499,Montenegro
+3215,Serbia,688,Serbia
+3216,Kosovo,,No corresponding UN category
+3301,Belarus,112,Belarus
+3302,Czechia,203,Czechia
+3303,Estonia,233,Estonia (Northern Europe)
+3304,Hungary,348,Hungary 
+3305,Latvia,428,Latvia (Northern Europe)
+3306,Lithuania,440,Lithuania (Northern Europe)
+3307,Poland,616,Poland 
+3308,Russian Federation,643,Russian Federation
+3311,Slovakia,703,Slovakia 
+3312,Ukraine,804,Ukraine
+4101,Algeria,012,Algeria
+4102,Egypt,818,Egypt
+4103,Libya,434,Libyan Arab Jamahiriya
+4104,Morocco,504,Morocco
+4105,Sudan,729,Sudan
+4106,Tunisia,788,Tunisia
+4107,Western Sahara,732,Western Sahara
+4108,Spanish North Africa,,
+4111,South Sudan,728,South Sudan
+4201,Bahrain,048,Bahrain
+4202,Gaza Strip and West Bank,275,State of Palestine
+4203,Iran,364,Iran (Islamic Republic of) (Southern Asia)
+4204,Iraq,368,Iraq
+4205,Israel,376,Israel
+4206,Jordan,400,Jordan
+4207,Kuwait,414,Kuwait
+4208,Lebanon,422,Lebanon
+4211,Oman,512,Oman
+4212,Qatar,634,Qatar
+4213,Saudi Arabia,682,Saudi Arabia
+4214,Syria,760,Syrian Arab Republic
+4215,Turkey,792,Turkey
+4216,United Arab Emirates,784,United Arab Emirates
+4217,Yemen,887,Yemen
+5101,Myanmar,104,Myanmar
+5102,Cambodia,116,Cambodia
+5103,Laos,418,Lao People's Democratic Republic
+5104,Thailand,764,Thailand
+5105,Vietnam,704,Viet Nam
+5201,Brunei Darussalam,096,Brunei Darussalam
+5202,Indonesia,360,Indonesia
+5203,Malaysia,458,Malaysia
+5204,Philippines,608,Philippines
+5205,Singapore,702,Singapore
+5206,Timor-Leste,626,Timor-Leste
+6101,China (excludes SARs and Taiwan),156,China (part) 
+6102,Hong Kong (SAR of China),344,"China, Hong Kong Special Administrative Region"
+6103,Macau (SAR of China),446,"China, Macao Special Administrative Region"
+6104,Mongolia,496,Mongolia
+6105,Taiwan ,158,China (part)
+6201,Japan,392,Japan
+6202,"Korea, Democratic People's Republic of (North)",408,Democratic People's Republic of Korea
+6203,"Korea, Republic of (South)",410,Republic of Korea
+7101,Bangladesh,050,Bangladesh
+7102,Bhutan,064,Bhutan
+7103,India,356,India
+7104,Maldives,462,Maldives
+7105,Nepal,524,Nepal
+7106,Pakistan,586,Pakistan
+7107,Sri Lanka,144,Sri Lanka
+7201,Afghanistan,004,Afghanistan (Southern Asia)
+7202,Armenia,051,Armenia (Western Asia)
+7203,Azerbaijan,031,Azerbaijan (Western Asia)
+7204,Georgia,268,Georgia (Western Asia)
+7205,Kazakhstan,398,Kazakhstan
+7206,Kyrgyzstan,417,Kyrgyzstan
+7207,Tajikistan,762,Tajikistan
+7208,Turkmenistan,795,Turkmenistan
+7211,Uzbekistan,860,Uzbekistan
+8101,Bermuda,060,Bermuda
+8102,Canada,124,Canada
+8103,St Pierre and Miquelon,666,Saint Pierre and Miquelon
+8104,United States of America,840,United States of America
+8201,Argentina,032,Argentina
+8202,Bolivia,068,Bolivia (Plurinational State of)
+8203,Brazil,076,Brazil
+8204,Chile,152,Chile
+8205,Colombia,170,Colombia
+8206,Ecuador,218,Ecuador
+8207,Falkland Islands,238,Falkland Islands (Malvinas)
+8208,French Guiana,254,French Guiana
+8211,Guyana,328,Guyana
+8212,Paraguay,600,Paraguay
+8213,Peru,604,Peru
+8214,Suriname,740,Suriname
+8215,Uruguay,858,Uruguay
+8216,Venezuela,862,Venezuela (Bolivarian Republic of)
+8299,"South America, nec",,
+8301,Belize,084,Belize
+8302,Costa Rica,188,Costa Rica
+8303,El Salvador,222,El Salvador
+8304,Guatemala,320,Guatemala
+8305,Honduras,340,Honduras
+8306,Mexico,484,Mexico
+8307,Nicaragua,558,Nicaragua
+8308,Panama,591,Panama
+8401,Anguilla,660,Anguilla
+8402,Antigua and Barbuda,028,Antigua and Barbuda
+8403,Aruba,533,Aruba
+8404,Bahamas,044,Bahamas
+8405,Barbados,052,Barbados
+8406,Cayman Islands,136,Cayman Islands
+8407,Cuba,192,Cuba
+8408,Dominica,212,Dominica
+8411,Dominican Republic,214,Dominican Republic
+8412,Grenada,308,Grenada
+8413,Guadeloupe,312,Guadeloupe
+8414,Haiti,332,Haiti
+8415,Jamaica,388,Jamaica
+8416,Martinique,474,Martinique
+8417,Montserrat,500,Montserrat
+8421,Puerto Rico,630,Puerto Rico
+8422,St Kitts and Nevis,659,Saint Kitts and Nevis
+8423,St Lucia,662,Saint Lucia
+8424,St Vincent and the Grenadines,670,Saint Vincent and the Grenadines
+8425,Trinidad and Tobago,780,Trinidad and Tobago
+8426,Turks and Caicos Islands,796,Turks and Caicos Islands
+8427,"Virgin Islands, British ",092,British Virgin Islands 
+8428,"Virgin Islands, United States",850,United States Virgin Islands
+8431,St Barthelemy,652,Saint-Barthelemy
+8432,St Martin (French part),663,Saint-Martin (French part)
+8433,"Bonaire, Sint Eustatius and Saba",535,"Bonaire, Sint Eustatius and Saba"
+8434,Curacao,531,Curacao
+8435,Sint Maarten (Dutch part),534,Sint Maarten (Dutch part)
+9101,Benin,204,Benin
+9102,Burkina Faso,854,Burkina Faso
+9103,Cameroon,120,Cameroon (Middle Africa)
+9104,Cabo Verde,132,Cabo Verde
+9105,Central African Republic,140,Central African Republic (Middle Africa)
+9106,Chad,148,Chad (Middle Africa)
+9107,"Congo, Republic of",178,Congo (Middle Africa)
+9108,"Congo, Democratic Republic of",180,Democratic Republic of the Congo (Middle Africa)
+9111,Cote d'Ivoire,384,Cote d'Ivoire
+9112,Equatorial Guinea,226,Equatorial Guinea (Middle Africa)
+9113,Gabon,266,Gabon (Middle Africa)
+9114,Gambia,270,Gambia
+9115,Ghana,288,Ghana
+9116,Guinea,324,Guinea
+9117,Guinea-Bissau,624,Guinea-Bissau
+9118,Liberia,430,Liberia
+9121,Mali,466,Mali
+9122,Mauritania,478,Mauritania
+9123,Niger,562,Niger
+9124,Nigeria,566,Nigeria
+9125,Sao Tome and Principe,678,Sao Tome and Principe (Middle Africa)
+9126,Senegal,686,Senegal
+9127,Sierra Leone,694,Sierra Leone
+9128,Togo,768,Togo
+9201,Angola,024,Angola (Middle Africa)
+9202,Botswana,072,Botswana (Southern Africa)
+9203,Burundi,108,Burundi
+9204,Comoros,174,Comoros
+9205,Djibouti,262,Djibouti
+9206,Eritrea,232,Eritrea
+9207,Ethiopia,231,Ethiopia
+9208,Kenya,404,Kenya
+9211,Lesotho,426,Lesotho (Southern Africa)
+9212,Madagascar,450,Madagascar
+9213,Malawi,454,Malawi
+9214,Mauritius,480,Mauritius
+9215,Mayotte,175,Mayotte
+9216,Mozambique,508,Mozambique
+9217,Namibia,516,Namibia (Southern Africa)
+9218,Reunion,638,Reunion
+9221,Rwanda,646,Rwanda
+9222,St Helena,654,Saint Helena (Western Africa)
+9223,Seychelles,690,Seychelles
+9224,Somalia,706,Somalia
+9225,South Africa,710,South Africa (Southern Africa)
+9226,Eswatini,748,Eswatini
+9227,Tanzania,834,United Republic of Tanzania
+9228,Uganda,800,Uganda
+9231,Zambia,894,Zambia
+9232,Zimbabwe,716,Zimbabwe
+9299,"Southern and East Africa, nec",,
